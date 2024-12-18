@@ -25,7 +25,7 @@ export const Projects = () => {
                         />
                         <p className="text-heading-h6">Cinebh</p>
                         <p>An app for booking movie tickets at cinemas across Bosnia and Herzegovina.</p>
-                        <p className="text-blue-200">Spring boot + React</p>
+                        <p className="text-blue-200">Spring Boot + React</p>
                         <div className="flex items-center justify-center">
                             <a className="py-4 px-16 bg-blue-800 bg-opacity-70 w-fit rounded-12 font-bold" href="https://github.com/akovac3/cinebh" >Source</a>
                         </div>
@@ -38,7 +38,7 @@ export const Projects = () => {
                         />
                         <p className="text-heading-h6">MovieHub</p>
                         <p>An application for exploring movies and managing a personalized watchlist of favorites.</p>
-                        <p className="text-blue-200">Spring boot + React</p>
+                        <p className="text-blue-200">Spring Boot + React</p>
                         <div className="flex items-center justify-center">
                             <a className="py-4 px-16 bg-blue-800 bg-opacity-70 w-fit rounded-12 font-bold" href="https://github.com/akovac3/MovieHub" >Source</a>
                         </div>
